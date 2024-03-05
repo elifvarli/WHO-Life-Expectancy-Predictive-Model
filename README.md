@@ -8,7 +8,8 @@ This repository contains code and documentation for a life expectancy prediction
 The data provided by WHO includes records from 183 countries, but some measurements for life expectancy are missing.
 Certain countries have expressed concerns about sharing sensitive data such as medical records, which can have financial implications and hinder social developments.
 As ethical data practitioners, features used in the models were carefully selected, taking into account privacy considerations and data integrity.  
- > Model Construction  
+
+## Model Construction  
  - Minimal Information Model:  
 This model uses only the most essential population statistics to make predictions on average life expectancy.  
 Features selected for this model do not include sensitive or protected information.  
